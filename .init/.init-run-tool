@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/Users/johnnytorres/kavia/_workspace/code-generation/recipe-planner-and-management-system-732-733/nextjs_frontend"
+}
